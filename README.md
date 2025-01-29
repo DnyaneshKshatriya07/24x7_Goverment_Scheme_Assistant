@@ -1,4 +1,4 @@
-# 24x7 Government Scheme Website
+# 24x7 Government Scheme Assistant Website
 
 This project provides an interactive platform for students to explore various government schemes available for their education. The website lists scholarships and other financial assistance schemes, offering guidance and support for students in need.
 
@@ -52,4 +52,5 @@ You can view the live version of the website here: [24x7 Government Scheme Assis
 ## Contributing
 
 Feel free to fork this project and submit pull requests for improvements or bug fixes.
+
 
