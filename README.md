@@ -53,4 +53,5 @@ You can view the live version of the website here: [24x7 Government Scheme Assis
 
 Feel free to fork this project and submit pull requests for improvements or bug fixes.
 
-
+## License
+This project is licensed under the MIT License.
